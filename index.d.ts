@@ -1,0 +1,1 @@
+export function echo(message: string): void;

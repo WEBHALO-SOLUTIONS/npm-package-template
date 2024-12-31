@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Utilities for interacting with a data source",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "build": "tsc",
     "start": "tsc && node dist/index.js",

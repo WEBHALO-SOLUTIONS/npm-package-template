@@ -22,6 +22,9 @@
     "url": "https://github.com/WEBHALO-SOLUTIONS/data-utils/issues"
   },
   "homepage": "https://github.com/WEBHALO-SOLUTIONS/data-utils#readme",
+  "publishConfig": {
+    "@WEBHALO-SOLUTIONS:registry": "https://npm.pkg.github.com"
+  },
   "devDependencies": {
     "@eslint/js": "^9.17.0",
     "@typescript-eslint/eslint-plugin": "^8.19.0",

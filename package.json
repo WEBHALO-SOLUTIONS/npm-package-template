@@ -4,6 +4,9 @@
   "description": "Utilities for interacting with a data source",
   "main": "index.js",
   "scripts": {
+    "build": "tsc",
+    "start": "tsc && node dist/index.js",
+    "lint": "eslint ./src/**/*.ts",
     "test": "exit 0"
   },
   "repository": {

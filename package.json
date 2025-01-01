@@ -1,7 +1,7 @@
 {
-  "name": "@webhalo-solutions/data-utils",
+  "name": "@your-org-name/your-repository-name",
   "version": "0.0.4",
-  "description": "Utilities for interacting with a data source",
+  "description": "Description of your package goes here",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WEBHALO-SOLUTIONS/data-utils.git"
+    "url": "git+https://github.com/YOUR-ORG-NAME/YOUR-REPOSITORY-NAME.git"
   },
   "keywords": [
     "data"
@@ -23,11 +23,11 @@
   "author": "scottluskcis",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/WEBHALO-SOLUTIONS/data-utils/issues"
+    "url": "https://github.com/YOUR-ORG-NAME/YOUR-REPOSITORY-NAME/issues"
   },
-  "homepage": "https://github.com/WEBHALO-SOLUTIONS/data-utils#readme",
+  "homepage": "https://github.com/YOUR-ORG-NAME/YOUR-REPOSITORY-NAME#readme",
   "publishConfig": {
-    "@WEBHALO-SOLUTIONS:registry": "https://npm.pkg.github.com"
+    "@YOUR-ORG-NAME:registry": "https://npm.pkg.github.com"
   },
   "devDependencies": {
     "@eslint/js": "^9.17.0",

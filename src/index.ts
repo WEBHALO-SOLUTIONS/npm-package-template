@@ -1,3 +1,3 @@
 export function echo(message: string): void {
-  console.log(`${new Date()} - data-utils - Echo: ${message}`);
+  console.log(`${new Date()} - YOUR-REPOSITORY-NAME - Echo: ${message}`);
 }
